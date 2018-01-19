@@ -6,6 +6,7 @@ Feel free to download and use any of these items in your workflow. If you have i
 If you like them, let me know.
 
 AdWords template
+
 Adobe Illustrator (.ai) file with common AdWords display ad sizes.
 1. Fill in with your favorite artwork. 
 2. Export to screens.
@@ -13,6 +14,7 @@ Adobe Illustrator (.ai) file with common AdWords display ad sizes.
 
 
 Icon Creator
+
 Adobe Illustrator (.ai) file with common icon and logo sizes.
 1. Go to symbols window and edit the symbol inside. 
 2. Replace the artwork in the symbol with your artwork. Copy/Paste if your artwork is already in .ai.
